@@ -1,0 +1,7 @@
+boto3==1.26.20
+fastapi==0.88.0
+python-dotenv==0.21.0
+dotenv
+os
+uvicorn
+dynamodb
